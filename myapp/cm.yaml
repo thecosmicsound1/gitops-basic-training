@@ -4,4 +4,4 @@ metadata:
   name: myapp
 data:
   index.html: |
-    This is Pranav's custom app!
+    This is a custom app!
